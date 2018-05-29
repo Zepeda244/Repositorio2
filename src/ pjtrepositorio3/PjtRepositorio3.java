@@ -19,7 +19,7 @@ public class PjtRepositorio3 {
         System.out.println("hola mundo!");
         
         System.out.println("hola Zepeda!");
-        
+        Sistema . a cabo . println ( " hola Zepeda! " );
     }
     
 }
